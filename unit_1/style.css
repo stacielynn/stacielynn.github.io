@@ -1,7 +1,5 @@
-body  {
-	background-color: red;
-}
-
-h1, p  {
+body {
 	color: black;
+	background-color: #cccccc;
+	font-family: : Arial, sans-serif;
 }
